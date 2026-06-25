@@ -1,0 +1,4 @@
+# Only push index.html
+*
+!.gitignore
+!index.html
